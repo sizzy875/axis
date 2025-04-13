@@ -1,4 +1,4 @@
-script_key="Insert Your Key";
+script_key="vcuWArSQBacGXYrnkSXrebUUjicUUxLO";
 shared["F​F​l​a​g​A​X​C​o​m​b​i​n​e​G​e​t​O​u​t​f​i​t​D​i​s​p​a​t​c​h​e​s​I​X​P​2"] = {
     ["Universal"] = {
         ['Indicators'] = { ['Enabled'] = (true) },
